@@ -6,7 +6,8 @@
 ## Experience
 &nbsp;&nbsp;&nbsp;&nbsp; I have about 17 years of experience doing bad things to computers. (No arrests or illegal stuff, I promise).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Developing fun hacking tools with python for ~5 years. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Completed over 200 ctf's. Previously achieved a ranking around 900 on Try Hack Me.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Completed over 200 ctf's. Previously achieved a ranking around 900 on Try Hack Me.<br><br>
+[![My Skills](https://skillicons.dev/icons?i=linux,c,python,flask,html,css,js,visualstudio)](https://skillicons.dev)
 
 ## Projects
 **PwnKitty** - https://www.github.com/mimi-katsu/pwnkitty<br><br>
@@ -24,6 +25,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - visit https://wirecat.ninja<br><br>
 
 ## Education
-&nbsp;&nbsp;&nbsp;&nbsp; - Self Taught
-&nbsp;&nbsp;&nbsp;&nbsp; - Currently studying for the CCNA and Hack the Box's CPTS.
-[![My Skills](https://skillicons.dev/icons?i=linux,c,python,flask,html,css,js,visualstudio)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp; - Self Taught<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Currently studying for the CCNA and Hack the Box's CPTS.<br>
