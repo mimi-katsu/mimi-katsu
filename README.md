@@ -6,7 +6,7 @@ You can call me M (She/They). My passions in life are computer hacking, gardenin
 ## Experience
 I have about 17 years of experience doing bad things to computers. (No arrests or illegal stuff, I promise).<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Developing fun hacking tools with python for ~5 years. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Completed over 200 ctf's over the years.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Completed over 200 ctf's.<br>
 
 ## Projects
 
@@ -15,7 +15,7 @@ I have about 17 years of experience doing bad things to computers. (No arrests o
 &nbsp;&nbsp;&nbsp;&nbsp; - Currently studying for the CCNA and Hack the Box's CPTS.
 [![My Skills](https://skillicons.dev/icons?i=linux,c,python,flask,html,css,js,visualstudio)](https://skillicons.dev)
 
-
+## Accomplishments
 <!--
 **mimi-katsu/mimi-katsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
