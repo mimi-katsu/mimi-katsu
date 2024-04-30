@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me:
-&nbsp;&nbsp;&nbsp;&nbsp; You can call me M (She/They). My passions in life are computer hacking, gardening, and cats.
+You can call me M (She/They). My passions in life are computer hacking, gardening, and cats.
 
 ## Experience
 &nbsp;&nbsp;&nbsp;&nbsp; - I have ~17 years of experience doing bad things to computers.
