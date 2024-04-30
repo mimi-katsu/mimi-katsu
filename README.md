@@ -9,10 +9,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Completed over 200 ctf's. Previously achieved a ranking around 900 oon Try Hack Me.<br>
 
 ## Projects
-&nbsp;&nbsp;&nbsp;&nbsp; ###PwnKitty https://www.github.com/mimi-katsu/pwnkitty
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Asynchronous shell handler for remote administration of windows and linux devices. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Supports a variety of shells including Reverse and Bind over TCP or UDP. All at the same time!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Built from the ground up to be very easy to use, AND customize.
+&nbsp;&nbsp;&nbsp;&nbsp; ###PwnKitty <br>
+&nbsp;&nbsp;&nbsp;&nbsp; https://www.github.com/mimi-katsu/pwnkitty<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Asynchronous shell handler for remote administration of windows and linux devices. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Supports a variety of shells including Reverse and Bind over TCP or UDP. All at the same time!<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Built from the ground up to be very easy to use, AND customize.<br>
 ## Education
 &nbsp;&nbsp;&nbsp;&nbsp; - Self Taught
 &nbsp;&nbsp;&nbsp;&nbsp; - Currently studying for the CCNA and Hack the Box's CPTS.
