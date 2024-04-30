@@ -15,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Supports Tunneling over non-conventional protocols such as DNS. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Built from the ground up to be very easy to use, AND customize.<br><br>
 **Dirpy** - https://www.github.com/mimi-katsu/dirpy<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Asynchronous web crawler and directory brute forcer. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Easy to use and very customizable<br><br>
 
 **Wirecat** https://www.github.com/mimi-katsu/wirecat<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Personal Cyber Security Blog<br>
