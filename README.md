@@ -4,7 +4,7 @@
 You can call me M (She/They). My passions in life are computer hacking, gardening, and cats.
 
 ## Experience
-&nbsp;&nbsp;&nbsp;&nbsp; - I have ~17 years of experience doing bad things to computers.
+I have ~17 years of experience doing bad things to computers.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - No arrests or illegal stuff, I promise :).
 &nbsp;&nbsp;&nbsp;&nbsp; - Developing fun hacking tools with python for ~5 years. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Flask for 1 year (and I'm addicted to it now).
