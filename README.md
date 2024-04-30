@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=linux,c,python,vs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,c,python,visualstudio)](https://skillicons.dev)
 <!--
 **mimi-katsu/mimi-katsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
