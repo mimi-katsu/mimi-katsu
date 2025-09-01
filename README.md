@@ -27,9 +27,9 @@ __Technical__:
 ## Projects
 ### pwnkitty.com
 - __Gamified White Hat Hacker's forum__: users earn points and ranks for completing web security related challenges.
-- __Technologies utilized__: OpenAI, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory
+- __Technologies utilized__: OpenAI, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory, DNS, SMTP, Wazuh
 - __Custom API and Automation tools__: Written in Python. Utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
-- __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, SIEM dashboards, internal DNS and other services.
+- __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, a SIEM dashboard, internal DNS and other services.
 - [website link](https://pwnkitty.com)
 
 ### Cyber Security CTF's
