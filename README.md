@@ -24,7 +24,7 @@ __Western Governor's University__
   - Flask
   - Docker/Docker-compose
   - Bash
-
+  - Linux
 ## Projects
   ### pwnkitty.com
   - __Gamified White Hat Hacker's forum__: users earn points and ranks for completing web security related challenges.
