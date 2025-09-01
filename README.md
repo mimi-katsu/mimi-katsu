@@ -1,15 +1,21 @@
 
-# Hi, I'm Nicolas! 🐾
+# Hi, I'm Nicholas! 🐾
 IT Support Technician
 
 ## About Me
 
 
 ## Skills
-- Technical:
+    Soft:
+    - 12 years working with clients through a variety of industries
+    - Working with closely with teams and vendors
+    Technical:
+    - Docker
+    - Python
+    - Networking
 
-Projects
-
+## Projects
+    - pwnkitty.com
 Certifications
 
 Let's Connect
