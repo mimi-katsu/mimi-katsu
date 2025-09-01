@@ -45,3 +45,6 @@ __Western Governor's University__
   __Hack the Box Certified Penetration Testing Specialist Course:__
   - __28__ modules and __480__ lessons involving web reconnaisance, attacks, and Active Directory penetration testing methodologies.
   - Planning to take the certification exam at the end of my current school term.
+
+---
+[linkedin](https://www.linkedin.com/in/nicholas-mestanas-35149137b/)
