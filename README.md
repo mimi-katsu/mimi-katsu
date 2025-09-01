@@ -26,7 +26,7 @@ __Western Governor's University__
   - Bash
   - Linux
 ## Projects
-  ### pwnkitty.com ~~~~
+  ### pwnkitty.com ~~___________________________________________________________________________________________________________________________________________~~
   - __Gamified White Hat Hacker's forum__: users earn points and ranks for completing web security related challenges.
   - __Technologies utilized__: OpenAI, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory, DNS, SMTP, Wazuh
   - __Custom API and Automation tools__: Written in Python. Utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
