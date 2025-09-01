@@ -32,7 +32,7 @@ __Technical__:
 - __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, a SIEM dashboard, internal DNS and other services.
 - [website link](https://pwnkitty.com)
 
-### Cyber Security CTF's
+### Cyber Security CTF's ---
 
 __TryHackMe__: 
 - __281__ Educational and Competetive rooms completed
