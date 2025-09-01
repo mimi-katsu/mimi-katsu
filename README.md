@@ -1,20 +1,16 @@
 
 # Hi, I'm Nicholas! 🐾
-IT Support Technician
 
 ## About Me
 Lifelong IT Enthusiast and Thinkpad junkie.
 
 ## Education
-Western Governor's University
+__Western Governor's University__
 - April 2025 - Current
 
 ## Certifications
 - Comptia A+
 - Comptia Network+
-
-
-
 
 ## Skills
 __Soft__:
@@ -29,7 +25,10 @@ __Technical__:
   
 ## Projects
 __pwnkitty.com__
-
+- Gamified White Hat Hacker's forum where users earn points and ranks for completing web security related challenges.
+- Custom API and automation tools written in Python which utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
+- Intranet fully accessible remotely via VPN which provides management access to servers, security dashboards, internal DNS.
+- [website link](https://pwnkitty.com)
 
 ### Cyber Security CTF's
 
