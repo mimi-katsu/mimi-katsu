@@ -1,7 +1,5 @@
 
 # Hi, I'm Nicholas! 🐾
-
-## About Me
 Lifelong IT Enthusiast and Thinkpad junkie.
 
 ## Education
