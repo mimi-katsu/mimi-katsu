@@ -18,9 +18,9 @@ IT Support Technician
 pwnkitty.com
 
 
-Cyber Security CTF's
+### Cyber Security CTF's
     TryHackMe
-     - 257 Educational and Competetive rooms Completed
+     - 281 educational and competetive challenges currently completed
      - Formerly top 1000 players
      - https://tryhackme.com/t/maiamor
 
