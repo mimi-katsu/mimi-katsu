@@ -23,29 +23,27 @@ __Technical__:
 - Flask
 - Docker/Docker-compose
 - Bash
-- Network Administration
-- SQL
 
 ## Projects
 ### pwnkitty.com
-- Gamified White Hat Hacker's forum where users earn points and ranks for completing web security related challenges.
-- Custom API and automation tools written in Python which utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
-- LDAP enabled Intranet fully accessible remotely via VPN which provides management access to servers, SIEM dashboards, internal DNS and other services.
-- Technologies utilized which provide core functionality: OpenAI, Postgresql, Redis, Discourse, TTYD, ProxMox, Active Directory
+- __Gamified White Hat Hacker's forum__: users earn points and ranks for completing web security related challenges.
+- __Technologies utilized__: OpenAI, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory
+- __Custom API and Automation tools__: Written in Python. Utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
+- __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, SIEM dashboards, internal DNS and other services.
 - [website link](https://pwnkitty.com)
 
 ### Cyber Security CTF's
 
 __TryHackMe__: 
-- 281 Educational and Competetive rooms completed
+- __281__ Educational and Competetive rooms completed
 - Formerly a top 1000 player
 - [profile link](https://tryhackme.com/t/maiamor)
 
 __Hack The Box Competitive Challenges__:
-- 35 Competitive Challenges Completed
+- __35__ Competitive Challenges Completed
 
 __Hack the Box Certified Penetration Testing Specialist Course__"
-- 28 modules and 480 lessons involving web reconnaisance, attacks, and Active Directory penetration testing methodologies.
+- __28__ modules and __480__ lessons involving web reconnaisance, attacks, and Active Directory penetration testing methodologies.
 - Planning to take the certification exam at the end of my current school term.
 
 Let's Connect
