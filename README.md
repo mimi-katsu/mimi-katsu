@@ -15,7 +15,15 @@ IT Support Technician
     - Networking
 
 ## Projects
-    - pwnkitty.com
+pwnkitty.com
+
+
+Cyber Security CTF's
+    TryHackMe
+     - 257 Educational and Competetive rooms Completed
+     - Formerly top 1000 players
+     - https://tryhackme.com/t/maiamor
+
 Certifications
 
 Let's Connect
