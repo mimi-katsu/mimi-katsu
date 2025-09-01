@@ -25,25 +25,26 @@ __Western Governor's University__
   - Docker/Docker-compose
   - Bash
   - Linux
+
 ## Projects
   ### PwnKitty.com:
-  - __Gamified White Hat Hacker's forum__: users earn points and ranks for completing web security related challenges.
-  - __Technologies utilized__: OpenAI, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory, DNS, SMTP, Wazuh
-  - __Custom API and Automation tools__: Written in Python. Utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
-  - __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, a SIEM dashboard, internal DNS and other services.
-  - [website link](https://pwnkitty.com)
+&emsp;- __Gamified White-Hat Hacker's forum__: Users earn points and ranks for completing web security related challenges.
+&emsp;- __Technologies utilized__: OpenAI API,  Wazuh, Docker, Wireguard, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory, DNS, SMTP
+&emsp;- __Custom API and Automation tools__: Written in Python. Utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
+&emsp;- __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, a SIEM dashboard, internal DNS and other services.
+&emsp;- [website link](https://pwnkitty.com)
 
   ### Cyber Security CTF's
   __TryHackMe__: 
-  - __281__ Educational and Competetive rooms completed
-  - Formerly a top 1000 player
+  - __281__ Educational and Competitive rooms completed.
+  - Formerly a top 1000 player.
   - [profile link](https://tryhackme.com/t/maiamor)
   
   __Hack The Box Competitive Challenges:__
-  - __35__ Competitive Challenges Completed
+  - __35__ Competitive Challenges Completed.
   
   __Hack the Box Certified Penetration Testing Specialist Course:__
-  - __28__ modules and __480__ lessons involving web reconnaisance, attacks, and Active Directory penetration testing methodologies.
+  - __28__ modules and __480__ lessons involving reconnaisance, network attacks, and Active Directory penetration testing methodologies.
   - Planning to take the certification exam at the end of my current school term.
 
 ---
