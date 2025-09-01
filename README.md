@@ -32,18 +32,18 @@ __Western Governor's University__
   * __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, a SIEM dashboard, internal DNS and other services.
   * [website link](https://pwnkitty.com)
 
-  ### Cyber Security CTF's
-  __TryHackMe__: 
-  - __281__ Educational and Competitive rooms completed.
-  - Formerly a top 1000 player.
-  - [profile link](https://tryhackme.com/t/maiamor)
+  ### Cyber Security CTF's:
+  - __TryHackMe__: 
+    - __281__ Educational and Competitive rooms completed.
+    - Formerly a top 1000 player.
+    - [profile link](https://tryhackme.com/t/maiamor)
   
-  __Hack The Box Competitive Challenges:__
-  - __35__ Competitive Challenges Completed.
+ -  __Hack The Box Competitive Challenges:__
+    - __35__ Competitive Challenges Completed.
   
-  __Hack the Box Certified Penetration Testing Specialist Course:__
-  - __28__ modules and __480__ lessons involving reconnaisance, network attacks, and Active Directory penetration testing methodologies.
-  - Planning to take the certification exam at the end of my current school term.
+  - __Hack the Box Certified Penetration Testing Specialist Course:__
+    - __28__ modules and __480__ lessons involving reconnaisance, network attacks, and Active Directory penetration testing methodologies.
+    - Planning to take the certification exam at the end of my current school term.
 
 ---
 [linkedin](https://www.linkedin.com/in/nicholas-mestanas-35149137b/)
