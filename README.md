@@ -25,12 +25,12 @@ __Western Governor's University__
   - Linux
 
 ## Projects
-### &emsp;PwnKitty.com:
-    - __Gamified White-Hat Hacker's forum__: Users earn points and ranks for completing web security related challenges.
-    - __Technologies utilized__: OpenAI API,  Wazuh, Docker, Wireguard, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory, DNS, SMTP
-    - __Custom API and Automation tools__: Written in Python. Utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
-    - __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, a SIEM dashboard, internal DNS and other services.
-    - [website link](https://pwnkitty.com)
+### PwnKitty.com:
+  * __Gamified White-Hat Hacker's forum__: Users earn points and ranks for completing web security related challenges.
+  * __Technologies utilized__: OpenAI API,  Wazuh, Docker, Wireguard, Postgresql, Redis, Discourse, TTYD, NginX, ProxMox, Active Directory, DNS, SMTP
+  * __Custom API and Automation tools__: Written in Python. Utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
+  * __Intranet with LDAP__: Fully accessible remotely via VPN which provides management access to servers, a SIEM dashboard, internal DNS and other services.
+  * [website link](https://pwnkitty.com)
 
   ### Cyber Security CTF's
   __TryHackMe__: 
