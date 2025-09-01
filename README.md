@@ -14,20 +14,24 @@ __Western Governor's University__
 
 ## Skills
 __Soft__:
-- 12 years working with people through a variety of industries
-- Working with closely with teams and vendors
-- Delivery quick and friendly customer service
+- 12 years working with people through a variety of industries.
+- Working with closely with teams and vendors.
+- Delivery of quick and friendly customer service.
 
 __Technical__:
-- Docker
 - Python
-- Networking
-  
+- Flask
+- Docker/Docker-compose
+- Bash
+- Network Administration
+- SQL
+
 ## Projects
-__pwnkitty.com__
+### pwnkitty.com
 - Gamified White Hat Hacker's forum where users earn points and ranks for completing web security related challenges.
 - Custom API and automation tools written in Python which utilize Docker-compose, Ansible and Git CI/CD tools to automate deployment of updates to containers.
-- Intranet fully accessible remotely via VPN which provides management access to servers, security dashboards, internal DNS.
+- LDAP enabled Intranet fully accessible remotely via VPN which provides management access to servers, SIEM dashboards, internal DNS and other services.
+- Technologies utilized which provide core functionality: OpenAI, Postgresql, Redis, Discourse, TTYD, ProxMox, Active Directory
 - [website link](https://pwnkitty.com)
 
 ### Cyber Security CTF's
